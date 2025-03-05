@@ -1,0 +1,18 @@
+# project-specific
+.vscode
+.DS*
+._.DS*
+*.zip
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+
+# hide data and output plots for the time being
+data
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
